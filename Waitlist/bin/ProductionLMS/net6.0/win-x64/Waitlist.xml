@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Waitlist</name>
+    </assembly>
+    <members>
+        <member name="T:Waitlist.Helpers.AutoMapperHelper">
+            <summary>
+            AutoMapper is a library to reduce code required to map different objects to one another (ORM).
+            https://docs.automapper.org/en/latest/ for docs
+            </summary>
+        </member>
+    </members>
+</doc>
